@@ -21,7 +21,8 @@ General, non-technical questions about BTCPay. What it is, how it works, what ar
 * [What if I have a problem with a paid invoice?](./FAQ-General.md#what-if-i-have-a-problem-with-a-paid-invoice)
 * [Where can I get help and support?](./FAQ-General.md#where-can-i-get-help-and-support)
 * [How can I contribute to BTCPay?](./FAQ-General.md#how-can-i-contribute-to-btcpay)
-* [How can I use the BTCPay Server API?](FAQ-General.md#how-can-i-use-the-btcpay-server-api)
+* [How can I use the BTCPay Server API?](./FAQ-General.md#how-can-i-use-the-btcpay-server-api)
+* [How can I backup my BTCPay Server?](./FAQ-General.md#how-can-i-backup-my-btcpay-server)
 
 ## [Deployment FAQ](./FAQ-Deployment.md)
 
@@ -111,8 +112,9 @@ Common problems and questions server admins have.
 * [How to add a new user by invite?](./FAQ-ServerSettings.md#how-to-add-a-new-user-by-invite)
 * [How to disable U2F and 2FA for a user?](./FAQ-ServerSettings.md#how-to-disable-u2f-and-2fa-for-a-user)
 * [How to configure SMTP settings in BTCPay?](./FAQ-ServerSettings.md#how-to-configure-smtp-settings-in-btcpay)
+* [Error: Maintenance feature requires access to SSH properly configured in BTCPayServer configuration](./FAQ-ServerSettings.md#error-maintenance-feature-requires-access-to-SSH-properly-configured-in-btcpayserver-configuration)
 * [Error: Your local changes to the following files would be overwritten by merge](./FAQ-ServerSettings.md#error-your-local-changes-to-the-following-files-would-be-overwritten-by-merge)
-* [Error: the BTCPAY_SSHKEYFILE variable is not set/ Unable to update](./FAQ-ServerSettings.md#btcpay-sshkeyfile-is-not-set-when-running-the-docker-install-or-unable-to-update-through-server-settings-maintenance)
+* [Error: the BTCPAY_SSHKEYFILE variable is not set/ Unable to update](./FAQ-ServerSettings.md#error-btcpay-sshkeyfile-is-not-set-when-running-the-docker-install-or-unable-to-update-through-server-settings-maintenance)
 
 ### [Theme / Customization FAQ](./FAQ-ServerSettings/#theme-customization)
 
